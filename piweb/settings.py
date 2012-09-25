@@ -122,6 +122,7 @@ INSTALLED_APPS = (
     'django.contrib.admindocs',
     'gunicorn',
     'piweb',
+    'boekjes',
 )
 
 # A sample logging configuration. The only tangible logging
